@@ -1,15 +1,65 @@
+/* Estilos da barra de rolagem */
 ::-webkit-scrollbar {
     background-color: #1d1d1dcc;
     width: 10px;
 	height: 8px;
 }
 
+/* Estilos do indicador da barra de rolagem */
 ::-webkit-scrollbar-thumb {
     background-color: #db1647;
     border-radius: 8px;
 }
 
+/* Estilos da seleção de texto */
 ::selection {
     background-color: #db164788;
     color: #fff;
+}
+
+/* Estilização dos ::before e ::after dos links de navegação */
+.nav-links a:before,
+.nav-links a:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+    height: 2px;
+    background-color: #db1647;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+/* Estilização do ::after dos links de navegação */
+.nav-links a:after {
+    bottom: 12px;
+}
+
+/* Estilização do sublinhado dos links de navegação ao passar o mouse */
+.nav-links a:hover:before,
+.nav-links a:focus:before,
+.nav-links a:hover:after,
+.nav-links a:focus:after {
+    transform: scaleX(1);
+}
+
+/* Estilização da mudança de cor dos links de navegação ao passar o mouse */
+.nav-links a:hover,
+.nav-links a:focus {
+    color: #fff;
+}
+
+/* Estilização dos botões transparentes e brancos ao passar o mouse */
+.transparent-button:hover,
+.white-button:hover {
+    background-color: #db1647;
+    color: white;
+    border-color: #db1647;
+}
+
+/* Estilização dos links no rodapé ao passar o mouse */
+.footer a:hover,
+.footer a:focus {
+    color: #f02e5f;
 }

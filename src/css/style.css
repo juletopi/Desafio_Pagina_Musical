@@ -1,3 +1,4 @@
+/* Estilização básica do corpo do documento */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #252525;
@@ -6,6 +7,7 @@ body {
     background-position: center;
 }
 
+/* Estilização da sobreposição para efeitos visuais desejados na imagem de fundo */
 .overlay {
     background-color: rgba(0, 0, 0, 0.5);
     width: 100vw;
@@ -16,6 +18,7 @@ body {
     z-index: -1;
 }
 
+/* Estilização da barra de navegação */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -25,11 +28,13 @@ body {
     color: #fff;
 }
 
+/* Estilização do logotipo na barra de navegação */
 .logo {
     display: flex;
     align-items: center;
 }
 
+/* Estilização do texto do logotipo na barra de navegação */
 .logo h2 {
     margin-left: 20px;
     font-size: 18px;
@@ -37,22 +42,26 @@ body {
     letter-spacing: -1px;
 }
 
+/* Estilização da imagem do logotipo na barra de navegação */
 .logo img {
     width: 40px;
     height: 40px;
 }
 
+/* Estilização geral dos links de navegação */
 .nav-links {
     display: flex;
     list-style-type: none;
 }
 
+/* Estilização dos itens da lista de links de navegação */
 .nav-links li {
     margin-right: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
+/* Estilização específica dos links de navegação */
 .nav-links a {
     color: #e0e0e0;
     padding: 20px;
@@ -60,36 +69,8 @@ body {
     position: relative;
 }
 
-.nav-links a:before,
-.nav-links a:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 10px;
-    height: 2px;
-    background-color: #db1647;
-    transform: scaleX(0);
-    transition: transform 0.3s ease;
-}
-
-.nav-links a:after {
-    bottom: 12px;
-}
-
-.nav-links a:hover:before,
-.nav-links a:focus:before,
-.nav-links a:hover:after,
-.nav-links a:focus:after {
-    transform: scaleX(1);
-}
-
-.nav-links a:hover,
-.nav-links a:focus {
-    color: #fff;
-}
-
-.title h1{
+/* Estilização do título da página */
+.title h1 {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
     padding-top: 100px;
@@ -102,6 +83,7 @@ body {
     animation: fadeInDown 2.0s forwards;
 }
 
+/* Estilização da linha abaixo do título */
 .title hr {
     border: none;
     border: 2px solid #db1647;
@@ -110,6 +92,8 @@ body {
     margin-top: 40px;
     margin-bottom: -5px;
 }
+
+/* Estilização do texto abaixo do título */
 .title p {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
@@ -121,12 +105,14 @@ body {
     animation: fadeInUp 2.5s forwards;
 }
 
+/* Estilização do container dos botões */
 .button-container {
     display: flex;
     justify-content: center;
     padding-bottom: 50px;
 }
 
+/* Estilização dos botões transparentes e brancos */
 .transparent-button,
 .white-button {
     border: 2px solid #db1647;
@@ -139,11 +125,13 @@ body {
     transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 }
 
+/* Estilização do botão transparente */
 .transparent-button {
     background-color: transparent;
     color: white;
 }
 
+/* Estilização do botão branco */
 .white-button {
     background-color: white;
     color: black;
@@ -151,13 +139,7 @@ body {
     margin-left: 20px
 }
 
-.transparent-button:hover,
-.white-button:hover {
-    background-color: #db1647;
-    color: white;
-    border-color: #db1647;
-}
-
+/* Estilização do texto "mais abaixo..." */
 .morebellow p {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
@@ -167,6 +149,7 @@ body {
     line-height: 1.5;
 }
 
+/* Estilização da seta abaixo da seção "mais abaixo..."*/
 .arrow {
     width: 0;
     height: 0;
@@ -179,6 +162,7 @@ body {
     animation: arrowAnimation 1s infinite alternate;
 }
 
+/* Estilização da seção do artista */
 .artist-section {
     color: #fff;
     padding: 50px 0px;
@@ -188,26 +172,31 @@ body {
     animation: fadeInDown 1.5s forwards;
 }
 
+/* Estilização da imagem do artista */
 .artist-image {
     width: 100%;
     height: auto;
     max-width: 300px;
 }
 
+/* Estilização dos ícones sociais dos artistas*/
 .social-icons {
     margin-top: 20px;
     padding-left: 20px;
 }
 
+/* Estilização dos links sociais dos artistas*/
 .social-icons a {
     margin-right: 10px;
 }
 
+/* Estilização do preenchimento do ícone do artista ao passar o mouse */
 .artist-section a:hover svg path {
     fill: #db1647;
     transition: fill 0.2s ease;
 }
 
+/* Estilização do conteúdo do artista */
 .artist-content {
     background-color: rgba(39, 39, 39, 0.911);
     padding: 0px auto;
@@ -216,22 +205,26 @@ body {
     align-items: center;
 }
 
+/* Estilização geral do texto do artista */
 .artist-text {
     flex: 1;
     padding-right: 20px;
 }
 
+/* Estilização do título do texto do artista */
 .artist-text h2 {
     margin-top: 10px;
     margin-left: 20px;
 }
 
+/* Estilização do subtitulo do texto do artista */
 .artist-text sub {
     margin-left: 20px;
     padding-bottom: 20px;
     line-height: 1.0;
 }
 
+/* Estilização dos parágrafos-texto do texto do artista */
 .artist-text p {
     color: #e0e0e0;
     font-size: 16px;
@@ -241,6 +234,7 @@ body {
     margin-bottom: 10px;
 }
 
+/* Estilização geral do texto da seção das letras da música */
 .music-lyrics {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
@@ -250,6 +244,7 @@ body {
     animation: fadeInDown 1.5s forwards;
 }
 
+/* Estilização do título da seção das letras da música */
 .music-lyrics h2 {
     color: #fff;
     text-align: center;
@@ -258,6 +253,7 @@ body {
     margin-bottom: 20px;
 }
 
+/* Estilização do subtítulo da seção das letras da música */
 .music-lyrics h3 {
     color: #fff;
     text-align: center;
@@ -266,12 +262,14 @@ body {
     margin-bottom: 20px;
 }
 
+/* Estilização dos parágrafos-texto da seção das letras da música */
 .music-lyrics p {
     color: #e6e6e6;
     font-size: 18px;
     text-align: center;
 }
 
+/* Estilização da linha horizontal da seção das letras da música */
 .music-lyrics hr {
     border: none;
     border: 2px solid #db1647;
@@ -281,18 +279,21 @@ body {
     margin-bottom: 15px;
 }
 
+/* Estilização do subtitulo do texto da seção das letras da música */
 .music-lyrics sub {
     color: #e6e6e6;
     font-size: 13px;
     line-height: 0.5;
 }
 
+/* Estilização do rodapé */
 .footer {
     background-color: #0e0e0e;
     color: #c5c5c5;
     margin-top: 30px;
 }
 
+/* Estilização do texto do rodapé */
 .footer p {
     padding-bottom: 30px;
     padding-top: 30px;
@@ -300,42 +301,7 @@ body {
     font-size: 12px;
 }
 
+/* Estilização dos links no rodapé */
 .footer a {
     color: #db1647;
-}
-
-.footer a:hover,
-.footer a:focus {
-    color: #f02e5f;
-}
-
-@keyframes arrowAnimation {
-    from {
-        top: 0;
-    }
-    to {
-        top: 10px;
-    }
-}
-
-@keyframes fadeInDown {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(-35px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
 }
