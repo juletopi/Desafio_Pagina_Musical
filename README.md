@@ -2,6 +2,7 @@
 ❗ ➤ References used in this Repository:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
 🔗 • https://shields.io
 🔗 • https://getemoji.com
 -->
@@ -52,7 +53,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/juletopi/Desafio_Pagina_Musical">View Demo</a> &#xa0; • &#xa0;
+<a href="https://juletopi.github.io/Desafio_Pagina_Musical/">View Demo</a> &#xa0; • &#xa0;
 <a href="https://github.com/juletopi/Desafio_Pagina_Musical/issues">Report Bug</a> &#xa0; • &#xa0;
 <a href="https://github.com/juletopi/Desafio_Pagina_Musical/discussions">Request Feature</a>
 </div>
@@ -83,7 +84,9 @@ O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Ma
 
 ## 🏗️ Estrutura do Projeto
 
-O projeto segue uma estrutura simples, composta por arquivos HTML e CSS. Abaixo está a organização dos arquivos:
+O projeto segue uma estrutura simples, composta por arquivos HTML e CSS. 
+
+Abaixo está a organização dos arquivos:
 
 ```
 |-- src
