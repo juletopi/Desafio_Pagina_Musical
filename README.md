@@ -71,7 +71,7 @@
 
 A página foi criada como parte de um desafio para a disciplina de [Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia).
 
-O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Marisa Monte](https://youtu.be/Qi07O6mFF_Y?si=OY3fkOfYhc8FljhB) utilizando apenas HTML e CSS.
+O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Marisa Monte](https://youtu.be/Qi07O6mFF_Y?si=OY3fkOfYhc8FljhB) criando uma página-web utilizando-se apenas de HTML e CSS.
 
 ## 👩‍💻 Tecnologias Utilizadas
 
