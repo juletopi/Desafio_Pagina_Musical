@@ -1,5 +1,6 @@
 <!--
 ❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
 🔗 • https://shields.io
 🔗 • https://getemoji.com
@@ -58,15 +59,59 @@
 
 <!-- ABOUT THE PAGE -->
 
-## 📋 Sobre a Página
+## 🖼️ Imagens da página
 
-### 🖼️ Imagem da página
+> ### Modo de tela para dispositivos Desktop 💻
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/0f1af67e-fb22-43f2-804c-ee1b7eb47092" alt="WebPageView" title="Visualização da Página Inteira" style="width: 80%;"></a>
+> ### Modo de tela para Smartphones 📱
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/c31c444c-58a8-43fc-a373-557f05b7b22e" alt="ContentPageMobile" title="Responsive Page View" style="width: 40%;"></a>
 
-> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/0f1af67e-fb22-43f2-804c-ee1b7eb47092" alt="WebPageView" title="Visualização da Página Inteira" style="width: 50%;"></a>
+## 📝 Descrição do Projeto
 
-A página foi construída como um desafio proposto para disciplina de [Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia). 
+A página foi criada como parte de um desafio para a disciplina de [Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia).
 
-O desafio consistia em criar uma página-web que representasse a música ["Bem Que Se Quis" - 1989 de Marisa Monte](https://youtu.be/Qi07O6mFF_Y?si=OY3fkOfYhc8FljhB) usando apensa HTML e CSS.
+O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Marisa Monte](https://youtu.be/Qi07O6mFF_Y?si=OY3fkOfYhc8FljhB) utilizando apenas HTML e CSS.
+
+## 👩‍💻 Tecnologias Utilizadas
+
+<a href="https://www.w3schools.com/html/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-badge" width="97px">
+</a>
+  <a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"alt="CSS-badge" width="84px">
+</a>
+
+## 🏗️ Estrutura do Projeto
+
+O projeto segue uma estrutura simples, composta por arquivos HTML e CSS. Abaixo está a organização dos arquivos:
+
+```
+|-- src
+|   |-- css
+|   |   |-- reset.css
+|   |   |-- style.css
+|   |   |-- pseudoElementStyles.css
+|   |   |-- animation.css
+|   |   |-- responsive.css
+|   |-- images
+|   |   |-- 80sDiscoImage.png
+|   |   |-- 80sDiscoIcon.ico
+|   |   |-- mainBackgroundImage.png
+|   |   |-- MarisaMonteImage.png
+|   |   |-- PinoDanieleImage.png
+|   |   |-- NelsonMottaImage.png
+|-- index.html
+```
+
+## ⚙️ Funcionalidades
+
+A página inclui as seguintes funcionalidades:
+
+- Navegação suave através de âncoras para as seções da página.
+- Links para o vídeo da música no YouTube e para ouvir no Spotify.
+- Seções dedicadas aos artistas envolvidos na música.
+- Exibição da letra da música.
+- Responsividade para diferentes tamanhos de tela.
 
 <div align="left">
   <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
