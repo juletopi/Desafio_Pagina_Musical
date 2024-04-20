@@ -63,9 +63,9 @@
 ## 🖼️ Imagens da página
 
 > ### Modo de tela para dispositivos Desktop 💻
-> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/0f1af67e-fb22-43f2-804c-ee1b7eb47092" alt="WebPageView" title="Visualização da Página Inteira" style="width: 80%;"></a>
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/0f1af67e-fb22-43f2-804c-ee1b7eb47092" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
 > ### Modo de tela para Smartphones 📱
-> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/c31c444c-58a8-43fc-a373-557f05b7b22e" alt="ContentPageMobile" title="Responsive Page View" style="width: 40%;"></a>
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/c31c444c-58a8-43fc-a373-557f05b7b22e" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
 
 ## 📝 Descrição do Projeto
 
@@ -75,9 +75,9 @@ O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Ma
 
 ## ⚙️ Funcionalidades
 
-A página inclui as seguintes funcionalidades:
+A página inclui as seguintes principais funcionalidades:
 
-- Navegação suave através de âncoras para as seções da página.
+- Navegação suave através de âncoras para as diferentes seções da página.
 - Links para o vídeo da música no YouTube e para ouvir no Spotify.
 - Seções dedicadas aos artistas envolvidos na música.
 - Exibição da letra da música.
@@ -102,7 +102,7 @@ A página inclui as seguintes funcionalidades:
 
 ## 🏗️ Estrutura do Projeto
 
-O projeto segue uma estrutura simples, composta por arquivos HTML e CSS. 
+O projeto segue uma estrutura simples, composta por arquivos HTML, CSS e imagens. 
 
 Abaixo está a organização dos arquivos:
 
