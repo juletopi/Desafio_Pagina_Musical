@@ -30,7 +30,6 @@
     .nav-links a:hover,
     .nav-links a:focus {
         color: #db1647;
-        font-weight: bold;
     }
 
     .title h1 {
@@ -57,7 +56,18 @@
     }
 
     .music-lyrics hr {
-        width: 60%;
+        width: 40%;
+    }
+
+    .footer p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #repository-link {
+        font-size: 11px;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 
@@ -94,7 +104,6 @@
     .nav-links a:hover,
     .nav-links a:focus {
         color: #db1647;
-        font-weight: bold;
     }
 
     .title h1 {
@@ -180,7 +189,22 @@
 
     .footer p {
         font-size: 11px;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #my-links {
+        margin-top: -40px;
+    }
+
+    .personal-social-icons svg {
+        max-width: 22px;
+        margin-top: -10px;
+    }
+
+    #repository-link {
+        font-size: 9px;
+        padding-left: 0;
+        padding-right: 0;
     }
 }

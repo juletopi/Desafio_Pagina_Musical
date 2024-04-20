@@ -57,9 +57,3 @@
     color: white;
     border-color: #db1647;
 }
-
-/* Estilização dos links no rodapé ao passar o mouse */
-.footer a:hover,
-.footer a:focus {
-    color: #f02e5f;
-}

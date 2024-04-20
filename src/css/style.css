@@ -1,8 +1,9 @@
 /* Estilização básica do corpo do documento */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #252525;
+    background-color: #030303;
     background-image: url('../images/mainBackgroundImage.png');
+    background-size: cover;
     background-attachment: fixed;
     background-position: center;
 }
@@ -301,7 +302,47 @@ body {
     font-size: 12px;
 }
 
-/* Estilização dos links no rodapé */
-.footer a {
+/* Estilização do texto predescente aos links pessoais do autor do site no rodapé */
+#my-links {
+    margin-top: -30px;
+}
+
+/* Estilização dos ícones sociais pessoais do autor do site */
+.personal-social-icons {
+    margin-top: -10px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+/* Estilização do preenchimento dos ícones sociais pessoais do autor do site */
+.personal-social-icons a svg path {
+    fill: #9e9e9e;
+}
+
+/* Estilização do preenchimento dos ícones sociais pessoais do autor do site ao passar o mouse */
+.personal-social-icons a:hover svg path {
+    fill: #696969;
+    transition: fill 0.3s ease;
+}
+
+/* Estilização do texto no final do site no rodapé */
+#repository-link {
+    color: #7a7a7a;
+    background-color: #030303;
+    font-family: Verdana;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Estilização do link texto no final do site no rodapé */
+#repository-link a {
     color: #db1647;
+}
+
+/* Estilização do link texto no final do site no rodapé ao passar o mouse */
+#repository-link:hover a {
+    color: #f02e5f;
 }
