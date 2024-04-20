@@ -63,9 +63,9 @@
 ## 🖼️ Imagens da página
 
 > ### Modo de tela para dispositivos Desktop 💻
-> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/0f1af67e-fb22-43f2-804c-ee1b7eb47092" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/c69ee29d-3299-45ab-9a7b-ffaac2cc0785" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
 > ### Modo de tela para Smartphones 📱
-> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/c31c444c-58a8-43fc-a373-557f05b7b22e" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
+> <a href=""><img src="https://github.com/juletopi/Desafio_Pagina_Musical/assets/76459155/203c2ead-11e6-4339-afb7-b5818eac9c05" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
 
 ## 📝 Descrição do Projeto
 
