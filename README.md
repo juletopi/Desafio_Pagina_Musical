@@ -73,6 +73,10 @@ A página foi criada como parte de um desafio para a disciplina de [Tópicos Esp
 
 O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Marisa Monte](https://youtu.be/Qi07O6mFF_Y?si=OY3fkOfYhc8FljhB) criando uma página-web utilizando-se apenas de HTML e CSS.
 
+<div align="left">
+  <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## ⚙️ Funcionalidades
 
 A página inclui as seguintes principais funcionalidades:
@@ -87,10 +91,6 @@ A página inclui as seguintes principais funcionalidades:
   <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=db1647&height=3&section=header&%20render">
-</div>
-
 ## 👩‍💻 Tecnologias Utilizadas
 
 <a href="https://www.w3schools.com/html/">
@@ -99,6 +99,10 @@ A página inclui as seguintes principais funcionalidades:
   <a href="https://www.w3schools.com/css/">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"alt="CSS-badge" width="84px">
 </a>
+
+<div align="left">
+  <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
+</div>
 
 ## 🏗️ Estrutura do Projeto
 
@@ -125,10 +129,6 @@ Abaixo está a organização dos arquivos:
 ```
 <div align="left">
   <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
-</div>
-
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=db1647&height=3&section=header&%20render">
 </div>
 
 <!-- AUTHOR -->
