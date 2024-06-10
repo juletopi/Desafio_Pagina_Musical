@@ -53,9 +53,9 @@
 <br>
 
 <div align="center">
-<a href="https://juletopi.github.io/Desafio_Pagina_Musical/">View Demo</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Desafio_Pagina_Musical/issues">Report Bug</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Desafio_Pagina_Musical/discussions">Request Feature</a>
+<a href="https://github.com/juletopi/Desafio_Pagina_Musical/blob/main/CONTRIBUTING.md">Como contribuir</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Desafio_Pagina_Musical/issues">Issues</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Desafio_Pagina_Musical/discussions">Discussions</a>
 </div>
 
 <!-- ABOUT THE PAGE -->
