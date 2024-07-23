@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  <a href="https://juletopi.github.io/Desafio_Pagina_Musical/">**« Visualize a página web clicando aqui »**</a> \
+  <a href="https://juletopi.github.io/Desafio_Pagina_Musical/">**» Visualize a página web clicando aqui «**</a> \
     <sub>**"Use `ctrl + click` para abri-la numa nova janela!"**</sub>
 </div>
 
