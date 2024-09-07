@@ -104,33 +104,6 @@ A página inclui as seguintes principais funcionalidades:
   <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
 </div>
 
-## 🏗️ Estrutura do Projeto
-
-O projeto segue uma estrutura simples, composta por arquivos HTML, CSS e imagens. 
-
-Abaixo está a organização dos arquivos:
-
-```
-|-- src
-|   |-- css
-|   |   |-- reset.css
-|   |   |-- style.css
-|   |   |-- pseudoElementStyles.css
-|   |   |-- animation.css
-|   |   |-- responsive.css
-|   |-- images
-|   |   |-- 80sDiscoImage.png
-|   |   |-- 80sDiscoIcon.ico
-|   |   |-- mainBackgroundImage.png
-|   |   |-- MarisaMonteImage.png
-|   |   |-- PinoDanieleImage.png
-|   |   |-- NelsonMottaImage.png
-|-- index.html
-```
-<div align="left">
-  <h6><a href="#desafio-página-musical-"> Voltar para o início ↺</a></h6>
-</div>
-
 <!-- CONTRIBUTIONS -->
 
 ## 🤝 Contribuições
