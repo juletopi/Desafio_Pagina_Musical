@@ -81,8 +81,8 @@ O objetivo do desafio era representar a música ["Bem Que Se Quis" - 1989, de Ma
 
 A página inclui as seguintes principais funcionalidades:
 
-- Navegação suave através de âncoras para as diferentes seções da página.
-- Links para o vídeo da música no YouTube e para ouvir no Spotify.
+- Barra de navegação no canto superior para ajudar o usuário navegar pela página.
+- Links para ver o vídeo da música no YouTube e para ouvir a música no Spotify.
 - Seções dedicadas aos artistas envolvidos na música.
 - Exibição da letra da música.
 - Responsividade para diferentes tamanhos de tela.
