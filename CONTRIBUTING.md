@@ -24,8 +24,6 @@ Antes de continuar, certifique-se de que o bug que você encontrou ainda não fo
 
 <br>
 
-<br>
-
 ## Deseja contribuir com a documentação?
 
 Caso tenha achado erros de digitação/formatação ou deseja melhorar a documentação:
